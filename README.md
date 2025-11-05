@@ -1,0 +1,1 @@
+# EcoSort-A-Computer-Vision-Pipeline-for-Automated-Waste-Sorting-Management
